@@ -15,6 +15,7 @@ let tools = {
 
 async function main() {
     // const conversations = []
+    
 
     const weatherFunctionDeclaration = {
         type: 'function',
